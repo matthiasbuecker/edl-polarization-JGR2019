@@ -16,7 +16,7 @@ If you find this data useful in your own research, please mention the this manus
 ## Instructions
 
 * Plots for grain and membrane (pore-constriction) models are generated separately
-* Access directory (grain or membrane), open and run parameters.m first
-* Then run "spectra.m"
-* Comsol models are those with the .mph extension
-* All numerical data used in the manuscript is available without running the Comsol simulation
+* Access directory (*grain* or *membrane*)
+* Open and run *parameters.m* first, then run *spectra.m*
+
+Comsol models are those with the .mph extension. Yet, all numerical data used in the manuscript is available without running the Comsol simulation.
