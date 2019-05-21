@@ -1,6 +1,6 @@
 # Numerical and Analytical Modelling of Stern- and Diffuse-Layer Polarization Mechanisms in Porous Media
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3066177.svg)](https://doi.org/10.5281/zenodo.3066177)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3067277.svg)](https://doi.org/10.5281/zenodo.3067277)
 
 This repository contains Matlab scripts, Comsol Multiphysics models, and numerical simulation data used to generate the plots in the manuscript
 
