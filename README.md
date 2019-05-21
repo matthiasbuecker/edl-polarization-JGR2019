@@ -19,4 +19,4 @@ If you find this data useful in your own research, please mention the this manus
 * Access directory (*grain* or *membrane*)
 * Open and run *parameters.m* first, then run *spectra.m*
 
-Comsol models are those with the .mph extension. Yet, all numerical data used in the manuscript is available without running the Comsol simulation.
+Comsol models are those with the *.mph* extension. Yet, all numerical data used in the manuscript is available without running the Comsol simulation.
