@@ -4,8 +4,7 @@
 
 This repository contains Matlab scripts, Comsol Multiphysics models, and numerical simulation data used to generate the plots in the manuscript
 
-Bücker, M., Flores Orozco, A., Undorf, S., and Kemna, A., 2019, *On the Role of Stern- and Diffuse-Layer Polarization
-Mechanisms in Porous Media*, submitted to JGR: Solid Earth.
+Bücker, M., Flores Orozco, A., Undorf, S., & Kemna, A. ( 2019). *On the role of Stern‐ and diffuse‐layer polarization mechanisms in porous media*. Journal of Geophysical Research: Solid Earth, 124, 5656– 5677. https://doi.org/10.1029/2019JB017679
 
 If you find this data useful in your own research, please mention this manuscript.
 
